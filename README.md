@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with React.js and Node.js
+🔭 I’m currently working with React.js.
 
 
 ## 🌐 Socials:
